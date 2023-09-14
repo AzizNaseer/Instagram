@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active-link{
+    background-color: brown;
+    font-size: x-large;
+}
